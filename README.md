@@ -49,9 +49,9 @@
 ---
 
 ### 🚀 Currently Learning  
-- 🔹 Headless UI with Tailwind  
-- 🔹 Advanced component patterns in React  
-- 🔹 Performance optimization and Web Vitals  
+- 📌 **SOLID Principles** – Writing maintainable and scalable code  
+- 🎨 **Design Patterns** – Improving reusability and structure  
+- 🏗 **Frontend Architecture** – Optimizing component structure & state management  
 
 ---
 
