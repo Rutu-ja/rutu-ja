@@ -39,8 +39,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Rutu-ja/tic-tac-toe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutu-ja&repo=tic-tac-toe" />
+      <a href="https://github.com/Rutu-ja/AI-Webpage-Summarizer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutu-ja&repo=AI-Webpage-Summarizer" />
       </a>
     </td>
   </tr>
